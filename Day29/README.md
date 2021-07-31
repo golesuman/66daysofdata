@@ -4,6 +4,7 @@ On my journey of 66 days of data challenge I have implemented the neural style t
 ![]('anne.jpeg')
 ![]('paint.jpeg')
 # Genrated Samples
-![]('generated.png)
-![]('generated1.png)
-![]('generated2.png)
+![]('generated.png')
+![]('generated2.png')
+![]('generated3.png')
+![]('generated4.png')
