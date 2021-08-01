@@ -7,4 +7,3 @@ On my journey of 66 days of data challenge I have implemented the neural style t
 ![]('generated.png')
 ![]('generated2.png')
 ![]('generated3.png')
-![]('generated4.png')
