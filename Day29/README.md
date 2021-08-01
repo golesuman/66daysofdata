@@ -3,7 +3,7 @@ On my journey of 66 days of data challenge I have implemented the neural style t
 # Original Images
 ![](anne.jpeg)
 ![](paint.jpeg)
-# Genrated Samples
+# Generated Samples
 ![](generated.png)
 ![](generated2.png)
 ![](generated3.png)
